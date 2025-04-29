@@ -127,6 +127,6 @@ This project is licensed under the MIT License.
 
 <h3>Acknowledgements</h3>
 
-Open Quantum Safe Project
+* [Open Quantum Safe Project](https://openquantumsafe.org/)
 
-OpenSSL Project
+* [OpenSSL Project](https://www.openssl.org/)
